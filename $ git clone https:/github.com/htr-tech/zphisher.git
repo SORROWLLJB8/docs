@@ -1,4 +1,4 @@
----
+---$ git clone https://github.com/htr-tech/zphisher.git
 title: Basic writing and formatting syntax
 intro: Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 redirect_from:
@@ -6,7 +6,7 @@ redirect_from:
   - /github/writing-on-github/basic-writing-and-formatting-syntax
   - /github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 versions:
-  fpt: '*'
+  fp
   ghes: '*'
   ghae: '*'
   ghec: '*'
